@@ -4,6 +4,6 @@ public class Random {
 
     public static void letsDrink(){
 
-        
+
     }
 }
